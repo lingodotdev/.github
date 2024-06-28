@@ -31,6 +31,7 @@
 </table>
 
 <p align="center">
+  <a href="https://replexica.com/go/gh">Repo</a> •
   <a href="https://replexica.com">Website</a> •
   <a href="https://replexica.com/go/discord">Discord</a> •
   <a href="https://replexica.com/go/docs">Docs</a>
