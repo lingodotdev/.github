@@ -32,8 +32,8 @@
 
 <p align="center">
 
-[Website](https://replexica.com) •
-[Discord](https://discord.gg/GeK6AuSqzw) •
-[Docs](https://replexica.com/docs)
+<a href="https://replexica.com">Website</a> •
+<a href="https://replexica.com/go/discord">Discord</a> •
+<a href="https://replexica.com/go/docs">Docs</a>
 
 </p>
