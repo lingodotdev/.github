@@ -1,4 +1,31 @@
-<p align="center">
-<img src="profile/content/banner.light.png#gh-light-mode-only">
-<img src="profile/content/banner.dark.png#gh-dark-mode-only">
-</p>
+<table width="100%">
+    <tr>
+        <td colspan="3">
+            <a href="https://replexica.com">
+                <img src="./content/banner.dark.png" width="100%" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center">
+            Supported and backed by
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://www.warp.dev/?utm_source=github&utm_medium=referral&utm_campaign=replexica_20240626">
+                <img src="./content/warp.dark.png"/>
+            </a>
+        </td>
+        <td>
+            <a target="_blank" href="https://www.esade.edu/en/learning-innovation/rambla/eworks">
+                <img src="./content/eworks.dark.png"/>
+            </a>
+        </td>
+        <td>
+            <a target="_blank" href="https://foundershub.startups.microsoft.com">
+                <img src="./content/ms-f-hub.dark.png"/>
+            </a>
+        </td>
+    </tr>
+</table>
