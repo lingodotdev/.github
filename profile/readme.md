@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://replexica.com">
-    <img src="/content/banner.dark.png" width="100%" alt="Replexica" />
+    <img src="./content/banner.dark.png" width="100%" alt="Replexica" />
   </a>
 </p>
 
