@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://replexica.com">
-    <img src="./content/banner.dark.png" width="100%" alt="Replexica" />
+  <a href="https://lingo.dev">
+    <img src="./content/banner.dark.png" width="100%" alt="Lingo.dev" />
   </a>
 </p>
 
@@ -11,8 +11,8 @@
 <br />
 
 <p align="center">
-  <a href="https://replexica.com/go/gh">Repo</a> •
-  <a href="https://replexica.com">Website</a> •
-  <a href="https://replexica.com/go/discord">Discord</a> •
-  <a href="https://replexica.com/go/docs">Docs</a>
+  <a href="https://lingo.dev/go/gh">Repo</a> •
+  <a href="https://lingo.dev">Website</a> •
+  <a href="https://lingo.dev/go/discord">Discord</a> •
+  <a href="https://lingo.dev/go/docs">Docs</a>
 </p>
