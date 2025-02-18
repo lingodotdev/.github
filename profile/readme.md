@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>⚡️ State-of-the-art AI localization for web & mobile, right from CI/CD.</strong>
+  <strong>⚡️ AI localization toolkit for web & mobile, right from CI/CD.</strong>
 </p>
 
 <br />
